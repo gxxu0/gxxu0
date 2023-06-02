@@ -33,11 +33,14 @@
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
   
   </p>
-<p></p>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gxxu0&show_icons=true&locale=en&layout=compact" alt="gxxu0" />
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gxxu0)](https://github.com/gxxu0/github-readme-stats)
+  
+  
+  
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=99A98F&height=170&animation=fadeIn&section=footer)
   
 </div>  
 
