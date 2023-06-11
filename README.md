@@ -31,7 +31,7 @@
 <h3 align="center">🌷Connect with me🌷</h3>
   <p align="center"> 
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-  
+  <p></p>
   </p>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gxxu0&show_icons=true&locale=en&layout=compact" alt="gxxu0" />
