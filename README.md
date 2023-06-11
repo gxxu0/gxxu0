@@ -31,6 +31,7 @@
 <h3 align="center">🌷Connect with me🌷</h3>
   <p align="center"> 
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+    <a href="https://www.notion.so/Portfolio-5f288489eccc4b638bfbaacc2dd274fd" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" /></a>
   <p></p>
   </p>
   
