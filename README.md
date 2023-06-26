@@ -35,9 +35,7 @@
   <p></p>
   </p>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gxxu0&show_icons=true&locale=en&layout=compact" alt="gxxu0" />
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gxxu0)](https://github.com/gxxu0/github-readme-stats)
   
   
   
