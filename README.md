@@ -14,10 +14,10 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <br>
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+   <img src="https://img.shields.io/badge/java-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <br>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
- <br/>
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -32,7 +32,9 @@
 <h3 align="center">🌷Connect with me🌷</h3>
   <p align="center"> 
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-    <a href="https://www.miricanvas.com/v/12rhxyd" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" /></a>
+    <a href="https://www.miricanvas.com/v/12rhxyd" target="_blank">
+      <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white" /></a>
+    
   <p></p>
   </p>
   
